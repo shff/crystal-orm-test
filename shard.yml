@@ -1,0 +1,13 @@
+name: orm
+version: 0.1.0
+license: MIT
+dependencies:
+  pg:
+    github: will/crystal-pg
+    version: "~> 0.5"
+  crecto:
+    github: fridgerator/crecto
+  jennifer:
+    github: imdrasil/jennifer.cr
+  granite:
+    github: amberframework/granite

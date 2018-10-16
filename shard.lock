@@ -1,0 +1,38 @@
+version: 1.0
+shards:
+  crecto:
+    github: fridgerator/crecto
+    version: 0.9.0
+
+  db:
+    github: crystal-lang/crystal-db
+    version: 0.5.0
+
+  granite:
+    github: amberframework/granite
+    version: 0.14.2
+
+  i18n:
+    github: TechMagister/i18n.cr
+    version: 0.2.0
+
+  ifrit:
+    github: imdrasil/ifrit
+    version: 0.1.2
+
+  inflector:
+    github: phoffer/inflector.cr
+    version: 0.1.8
+
+  jennifer:
+    github: imdrasil/jennifer.cr
+    version: 0.6.1
+
+  pg:
+    github: will/crystal-pg
+    version: 0.15.0
+
+  sam:
+    github: imdrasil/sam.cr
+    version: 0.2.4
+
